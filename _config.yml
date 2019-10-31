@@ -12,3 +12,5 @@ address: "550 Codd’s Rd. Ottawa ON K1K 2G8"
 
 # Build settings
 markdown: kramdown
+
+# permalink: /:title.html
