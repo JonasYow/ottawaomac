@@ -330,6 +330,14 @@ header {
     font-size: 4em;
 }
 
+footer{
+    // font-size: 4em;
+    text-align: center;
+    .fa{
+        font-size: 1em;
+    }
+}
+
 // Extras
 // -- Highlight Color Customization
 ::-moz-selection {
