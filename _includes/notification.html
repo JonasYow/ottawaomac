@@ -1,6 +1,22 @@
-    
-    <section id="news" class="bg-primary">
-        <h2 class="text-center filtered">最新消息！</h2>
-        <hr>
-        <img src="img/news/new1.jpg" class="img-responsive center-block filtered rounded-lg" alt="News">
-    </section>
+<section id="news" class="bg-primary">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading filtered">最新消息！</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="Row">
+            {% for notification in site.data.news %}
+            <div class="col-lg-8 col-md-8 col-md-offset-2 text-center">
+                <h3>{{notification.title}}</h3>
+                <p>{{notification.content}}</p>
+                <img src="{{notification.image}}" vclass="img-responsive center-block filtered rounded-lg"
+                    alt="notification">
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
