@@ -1,14 +1,26 @@
-# Creative Theme for Jekyll
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+# Websit Url
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+- default url : https://jonasyow.github.io/ottawaomac/
+- It can be customized as http://www.ottawamandarinalliance.ca/ (Can we enable https ?)
+- To do run as PWA (Like mobile application, can be accessed offline)
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+# How to update website content
 
-## To use the Creative Theme template in your project
+Almost of websit conten is in data files (yaml, cvs ...), any update in the data files (commit your changes), the website will be updated automatically. 
 
-- Start by adding your info in `_config.yml`
+If you have a account of github, you can do the update via browser, no IDE is needed.
+
+## website layout
 - In `_layouts/front.html` reorder or remove section as you prefer.
+
+## Data files
+- The contact information is in `_config.yml`
+- 小组信息 -- `_data/group.yaml`
+- 最新活动 -- `_data/news.yaml`
+- 教会事工 -- `_data/omac.yaml`
+- 灵命进深 -- `_data/study.yaml`
+
+## Font, font size and theme color, background image
+-- `_sass/_base.scss`
 
