@@ -1,11 +1,11 @@
 # Site settings
 title: "OMAC"
-email: "secretary@OttawaMandarinAlliance.ca"
+email: "omac.secretary@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-wechat: "omac"
+wechat: "+1(613)236-7656"
 facebookgroup: "ottawamac"
 address: "550 Codd’s Rd. Ottawa ON K1K 2G8"
 

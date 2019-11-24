@@ -77,10 +77,19 @@
         <!-- /.container-fluid -->
     </nav>
 
+    <header style="background-image: url(../img/{{page.image}});">
+        <div class="header-content">
+            <div class="header-content-inner">
+                
+            </div>
+        </div>
+    </header>
+    
     <section class="col-lg-8 col-lg-offset-2 col-sm-8 col-sm-offset-2">
+            <h1 class="text-center">{{page.title}}</h1>
         {{ content }}
     </section>
-    
+
     <script src="{{site.url}}/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
