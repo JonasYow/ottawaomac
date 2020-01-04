@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading filtered">最新消息！</h2>
+                <h2 class="section-heading filtered">2020年第1季 (1~3月)  中文成人主日學</h2>
                 <hr class="primary">
             </div>
         </div>
@@ -12,9 +12,13 @@
             {% for notification in site.data.news %}
             <div class="col-lg-8 col-md-8 col-md-offset-2 text-center">
                 <h3>{{notification.title}}</h3>
+                <h5 class="text-faded">{{notification.teacher}}</h6>
+                <h5 class="text-faded">{{notification.room}}</h5>
                 <p>{{notification.content}}</p>
-                <img src="{{notification.image}}" class="img-responsive filtered rounded-lg"
+                {% if notification.image %}
+                    <img src="{{notification.image}}" class="img-responsive filtered rounded-lg"
                     alt="notification">
+                {% endif %}
             </div>
             {% endfor %}
         </div>
