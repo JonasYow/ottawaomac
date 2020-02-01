@@ -80,7 +80,7 @@ aside {
     @include sans-serif-font;
     @include transition-all;
     .navbar-header .navbar-brand {
-        color: $theme-primary;
+        color: $theme-primary; 
         @include sans-serif-font;
         font-weight: 700;
         text-transform: uppercase;
@@ -234,9 +234,10 @@ header {
     margin: 0 auto;
     .portfolio-box-caption {
         color: white;
-        opacity: 0;
+        opacity: 1;
         display: block;
-        background: rgba( $theme-primary, .9 );
+        background: rgba( $theme-primary, .6 );
+        // background: rgba(white, .7);
         position: absolute;
         bottom: 0;
         text-align: center;
