@@ -11,13 +11,15 @@
         <div class="row">
             {% for service in site.data.omac %}
             <div class="col-lg-3 col-md-6 text-center">
-                <a href={{service.link}}>
+                
                     <div class="service-box">
                         <i class="fa fa-4x fa-{{service.icon}} wow bounceIn text-primary"></i>
                         <h3>{{service.title}}</h3>
                         <p class="text-muted">{{service.content}}</p>
+                        {% if service.link %}
+                        <a href={{service.link}}><div class="btn-primary text-right">more ...</div></a>
+                        {% endif %}
                     </div>
-                </a>
             </div>
             {% endfor %}
         </div>
