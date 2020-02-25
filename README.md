@@ -18,7 +18,7 @@ If you have a account of github, you can do the update via browser, no IDE is ne
 - The contact information is in `_config.yml`
 - 小组信息 -- `_data/group.yaml`
 - 最新活动 -- `_data/news.yaml`
-- 教会事工 -- `_data/omac.yaml`
+- 教会事工 -- `_data/services.yaml`
 - 灵命进深 -- `_data/study.yaml`
 
 ## Font, font size and theme color, background image
