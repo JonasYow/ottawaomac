@@ -160,7 +160,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/church.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -250,7 +250,7 @@ header {
         color: white;
         opacity: 1;
         display: block;
-        background: rgba( $theme-primary, .1 );
+        background: rgba( $theme-primary, 1 );
         // background: rgba(white, .7);
         position: absolute;
         bottom: 0;
