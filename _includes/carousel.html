@@ -27,7 +27,13 @@
         <div class="carousel__track">
           <ul>
             {% for item in site.data.carousel.images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
+            <li class="carousel__slide" style="background-image: url('{{ item.image }}');">
+              <div class="carousel-caption d-none d-md-block">
+                <h4>{{item.caption}}</h4>
+                <p>{{item.content}}</p>
+                <a href="{{item.link}}" class="badge-light">{{item.linktext}}</a>
+              </div>
+            </li>
             {% endfor %}
           </ul>
         </div>
@@ -161,6 +167,7 @@
   position: absolute;
   opacity: 0;
   overflow: hidden;
+  bottom: 0;
 }
 .carousel__slide .overlay {height: 100%;}
 .carousel--thumb .carousel__indicator {
