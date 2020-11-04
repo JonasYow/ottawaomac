@@ -1,5 +1,6 @@
 images: 
   - image: img/news/NovBibleStudy.jpg
+<<<<<<< HEAD
     caption: "" 
     content: ""
     link: "#"
@@ -9,3 +10,6 @@ images:
     content: "秋叶渐红，渥太华又到了最美的季节。今年是非同寻常的一年，因为疫情关系，人员流动在全世界近乎停滞，宣教士的工作开展异常艰难。同为主内肢体，让我们以行动来传递对他们的关怀和支持。从十月十二日到十一月三十日止，我们开展健身筹款活动。"
     link: https://www.canadahelps.org/en/charities/ottawa-mandarin-alliance-church/p2p/exerciseforMission/
     linktext: "详情: 点击此处"
+=======
+  - image: img/news/E4M.JPG
+>>>>>>> 65b15fcb28baf9dd1ee5f94c086a54b24e0ee3c5
