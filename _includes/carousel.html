@@ -28,10 +28,10 @@
           <ul>
             {% for item in site.data.carousel.images %}
             <li class="carousel__slide" style="background-image: url('{{ item.image }}');">
-              <div class="carousel-caption visible-md visible-lg visible-md-block">
+              <div class="carousel-caption">
                 <h4>{{item.caption}}</h4>
-                <p>{{item.content}}</p>
                 <a href="{{item.link}}" class="badge-light">{{item.linktext}}</a>
+                <p class="visible-md visible-lg visible-md-block">{{item.content}}</p>
               </div>
             </li>
             {% endfor %}
