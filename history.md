@@ -4,19 +4,21 @@ layout: post
 image: OMAC_sketch_2.jpg
 ---
 
-##一 胚胎初成 （1995 – 1998）
+## 一 胚胎初成 （1995 – 1998）
 
 渥太华国语宣道会成立于1995年9月10日。首任主任牧师张福成牧师于母会渥太华华人宣道会开始国语事工，1995年正式设立新堂渥太华国语宣道会。
 
-{% include photo.html url='/img/history/h1.jpg' description='1995年9月国宣在圣公会第一次主日崇拜' %}
+![1995年9月国宣在圣公会第一次主日崇拜](/img/history/h1.jpg){:class="img-responsive"}
 
-##二 初步成长 （1998 – 2000） 
+{% include url='' description='' %}
+
+## 二 初步成长 （1998 – 2000） 
 
 1998年简国庆牧师兼任宣道会顾问牧师，义务来教会讲道主持圣餐。 
 
 {% include photo.html url='/img/history/h2.jpg' description='简国庆牧师（顾问牧师）及会友' %}
 
-##三 健壮成长  （2001 – 2014）
+## 三 健壮成长  （2001 – 2014）
 
 2001-2004年黄沐明牧师担任主任牧师。教会小组迅速增长，学生事工兴旺，教会祷告会人数，主日学人数大大增加。
 
@@ -36,18 +38,18 @@ image: OMAC_sketch_2.jpg
 
 2009年国宣与东门宣道会开始进行英语青年联合事工。东门宣道会Chris牧师参与并负责带领青年团契并担任国宣英语堂崇拜讲员直至2014年。
 
-{% include photo.html url='/img/history/h7.jpg' description='Chris Bebbington（英语青年牧师）与家人' %}
+{% include url='/img/history/h7.jpg' description='Chris Bebbington（英语青年牧师）与家人' %}
 
-##四 建造家园 （2013 - 2014）
+## 四 建造家园 （2013 - 2014）
 
 2007年东门宣道会主任牧师Pastor Bill Buitenwerf提出建立国际小区宣道会（International Community of Alliance Churches）的异象(当时东门宣道会已有菲律宾语主日崇拜、阿拉伯语及西班牙语的祷告会)，主动提供免费土地给予渥太华国语宣道会建堂。
 感谢神！2007年11月会友大会，2/3会友投票通过在东门教会的建堂议案。尽管期间有不少的困难挑战，但弟兄姊妹们恳切祷告求神赐下合一的心，寻求神的带领落实在东区建堂的异象。
 
-{% include photo.html url='/img/history/h8.jpg' description='2013年3月29日奠基仪' %}
+{% include url='/img/history/h8.jpg' description='2013年3月29日奠基仪' %}
 
 新堂於2013年春动工兴建。2014年4月13日正式启用新堂主日崇拜，荣光充满这地，感恩喜悦充满每颗心。同年8月10日，首次启用新堂洗礼池为六位弟兄姊妹施洗；9月20日，举行感恩献堂礼，特邀请加拿大哈珀总理出席，宣道会加东区监督John Healey博士主礼，并有友堂弟兄姊妹，外地会友前来参加，200多人济济一堂同颂主恩，愿神的荣耀充满圣殿，将荣耀归给神。特别值得感恩的是，陈明道牧师在新堂接受按立为主任牧师，众弟兄姊妹同享喜乐。
 
-{% include photo.html url='/img/history/h9.jpg' description='感恩献堂礼' %}
+![感恩献堂礼](/img/history/h9.jpg){:class="img-responsive"}
 
 
 
