@@ -14,7 +14,7 @@ image: OMAC_sketch_2.jpg
 
 ## 二 初步成长 （1998 – 2000） 
 
-1998年简国庆牧师兼任宣道会顾问牧师，义务来教会讲道主持圣餐。 
+1998年简国庆牧师兼任宣道会顾问牧师，义务至国宣讲道主持圣餐。 
 
 {% include image_history.html url='/img/history/h2.jpg' description='简国庆牧师（顾问牧师）及会友' %}
 
@@ -38,7 +38,7 @@ image: OMAC_sketch_2.jpg
 {% include image_history.html url='/img/history/h5.jpg' description='陈明道牧师（主任牧师）师母' %}
 
 
-2009-2014年随着儿童人数增长，装备家长和培训儿童主日学老师为国宣事工当务之急。林有基传道夫妇加入事奉行列，林传道担任英文堂讲员并致力于儿童事工，曾举办二十多次儿童服事师资训练。
+2009-2014年随着儿童人数增长，装备家长和培训儿童主日学老师为国宣事工当务之急。林有基传道夫妇加入事奉行列，林传道担任英文堂讲员，致力于儿童事工，并协助教会训练儿童主日学师资。
 
 
 {% include image_history.html url='/img/history/h6.jpg' description='林有基牧师（英语及儿童事工牧师）师母与青少年' %}
@@ -54,7 +54,7 @@ image: OMAC_sketch_2.jpg
 
 2007年东门宣道会主任牧师Pastor Bill Buitenwerf提出建立国际小区宣道会（International Community of Alliance Churches）的异象(当时东门宣道会已有菲律宾语主日崇拜、阿拉伯语及西班牙语的祷告会)，主动提供免费土地给予渥太华国语宣道会建堂。
 
-感谢神！2007年11月会友大会，2/3会友投票通过在东门教会的建堂议案。尽管期间有不少的困难挑战，但弟兄姊妹们恳切祷告求神赐下合一的心，寻求神的带领落实在东区建堂的异象。
+感谢神！2007年11月会友大会，2/3会友投票通过在东门教会的建堂议案。尽管面临不少困难挑战，弟兄姊妹们恳切祷告，寻求神赐下众人合一的心，落实渥太华东区建堂的异象。
 
 
 {% include image_history.html url='/img/history/h8.jpg' description='2013年3月29日奠基仪' %}
