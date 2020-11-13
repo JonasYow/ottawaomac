@@ -381,3 +381,33 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+
+.divScroll {
+overflow-y:scroll;
+height:100px;
+// width:200px;
+}
+
+.scroll {
+    border: none;
+    padding: 5px;
+    font: 24px/36px sans-serif;
+    width: 200px;
+    height: 200px;
+    overflow: scroll;
+    }
+    ::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    }
+    ::-webkit-scrollbar-track {
+    border: 1px solid rgb(84, 142, 230);
+    border-radius: 10px;
+    }
+    ::-webkit-scrollbar-thumb {
+    background: rgb(84, 142, 230);
+    border-radius: 10px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+    background: #54e28f;
+    }
