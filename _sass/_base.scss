@@ -43,6 +43,11 @@ p {
     margin-bottom: 20px;
 }
 
+figcaption {
+  font-style: italic;
+  text-align: center;
+}
+
 .bg-primary {
     //layout main color
     background-color: $theme-secondary;
