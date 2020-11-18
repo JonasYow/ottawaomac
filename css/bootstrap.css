@@ -16,10 +16,7 @@ body {
 article,
 aside,
 details,
-figcaption{
-  font-style: italic;
-  text-align: center;
-}
+figcaption,
 figure,
 footer,
 header,
