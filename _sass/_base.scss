@@ -39,16 +39,18 @@ h6 {
 p {
     font-size: 16px;
     line-height: 1.5;
+    color: black;
     margin-bottom: 20px;
 }
 
 .bg-primary {
-    background-color: $theme-primary;
+    //layout main color
+    background-color: $theme-secondary;
 }
 
 .bg-dark {
-    background-color: $theme-dark;
-    color: white;
+    background-color: $theme-option;
+    //color: white;
 }
 
 .text-faded {
@@ -162,7 +164,7 @@ header {
     background-position: center;
     background-image: url('../img/church1114.jpg');
     text-align: center;
-    color: white;
+    color: black;
     .header-content {
         position: relative;
         text-align: center;
@@ -180,17 +182,17 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7);
+                color: rgba(black, .7);
                 font-size: 16px;
                 margin-bottom: 50px;
             }
             a.button {
                 background-color: transparentize($color: rgba($theme-primary, .1), $amount: 0);
                 border-radius: 4px;
-                border-color: green;
+                border-color: white;
                 border-style: solid;
                 font-size: medium;
-                color: green;
+                color: white;
                 padding: 0.2em;
                 padding-left: 0.2em;
                 padding-right: 0.2em;
@@ -306,7 +308,7 @@ header {
 
 // Bootstrap Overrides
 .text-primary {
-    color: $theme-primary;
+    color: $theme-dark;
 }
 
 .no-gutter > [class*='col-'] {
