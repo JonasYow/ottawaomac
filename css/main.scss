@@ -34,9 +34,11 @@
 // }
 
 // variables.less
-$theme-primary: rgb(95, 159, 241);
+ $theme-primary: rgb(95, 159, 241);
+$theme-secondary: rgb(212, 212, 170);
 // $theme-primary: #F05F40; #070BE2; #0140FA
 $theme-dark: #222;
+$theme-option: rgb(195, 195, 136);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
