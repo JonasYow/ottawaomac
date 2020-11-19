@@ -33,7 +33,9 @@ h3{
     color:black;
 }
 h4,
-h5,
+h5{
+     color: $theme-dark;
+}
 h6 {
     @include sans-serif-font;
 }
