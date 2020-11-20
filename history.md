@@ -1,9 +1,9 @@
 ---
 title: 我们的历史
-layout: post
+layout: subpage
 ---
 
-## 一 胚胎初成 （1995 – 1998）
+### 一 胚胎初成 （1995 – 1998）
 
 渥太华国语宣道会成立于1995年9月10日。首任主任牧师张福成牧师于母会渥太华华人宣道会开始国语事工，1995年正式设立新堂渥太华国语宣道会。
 &nbsp;
@@ -11,14 +11,14 @@ layout: post
 {% include image_history.html url='/img/history/h1.jpg' description="1995年9月国宣在圣公会第一次主日崇拜" %}
 
 
-## 二 初步成长 （1998 – 2000） 
+### 二 初步成长 （1998 – 2000） 
 
 1998年简国庆牧师兼任宣道会顾问牧师，义务至国宣讲道主持圣餐。 
 &nbsp;
 &nbsp;
 {% include image_history.html url='/img/history/h2.jpg' description='简国庆牧师（顾问牧师）及会友' %}
 
-## 三 健壮成长  （2001 – 2014）
+###三 健壮成长  （2001 – 2014）
 
 2001-2004年黄沐明牧师担任主任牧师。教会小组迅速增长，学生事工兴旺，教会祷告会人数，主日学人数大大增加。
 &nbsp;
@@ -50,7 +50,7 @@ layout: post
 {% include image_history.html url='/img/history/h7.jpg' description='Chris Bebbington（英语青年牧师）与家人' %}
 
 
-## 四 建造家园 （2013 - 2014）
+### 四 建造家园 （2013 - 2014）
 
 
 2007年东门宣道会主任牧师Pastor Bill Buitenwerf提出建立国际小区宣道会（International Community of Alliance Churches）的异象(当时东门宣道会已有菲律宾语主日崇拜、阿拉伯语及西班牙语的祷告会)，主动提供免费土地给予渥太华国语宣道会建堂。
