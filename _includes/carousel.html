@@ -27,11 +27,14 @@
         <div class="carousel__track">
           <ul>
             {% for item in site.data.carousel.images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');">
+            <li class="carousel__slide" style="background-image: url('{{ item.image }}');text-align: center;">
               <div class="carousel-caption">
-                <h4>{{item.caption}}</h4>
-                <a href="{{item.link}}" class="badge-light">{{item.linktext}}</a>
-                <p class="visible-md visible-lg visible-md-block">{{item.content}}</p>
+                <p class="h1" style="margin: 30px;">{{item.caption}}</p>
+                <!-- <h4>{{item.caption}}</h4> -->
+                {% for link in item.links %}
+                <a href="{{link.link}}" class="badge-light h2" style="margin: 30px;">{{link.linktext}}</a>
+                {% endfor %}
+                <p class="visible-md visible-lg visible-md-block h5">{{item.content}}</p>
               </div>
             </li>
             {% endfor %}
@@ -151,6 +154,21 @@
   right: 0;
   opacity: 1;
 }
+
+.carousel__track .carousel__slide .a .button {
+  border-radius: 4px;
+  border-color: white;
+  border-style: solid;
+  font-size: medium;
+  color: white;
+  padding: 0.2em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+  margin-left: 1em;
+  display: inline-block;
+  min-width: 8em;
+}
+
 {% for item in site.data.carousel.images %}
 .carousel__track .carousel__slide:nth-of-type({{ forloop.index }}) {
   -webkit-transform: translateX({{ forloop.index0 }}00%);
