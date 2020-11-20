@@ -3,7 +3,7 @@
         <div class="row no-gutter">
             {% for group in site.data.groups %}
             <div class="col-lg-4 col-sm-6">
-                <a href="" onclick="return false;" class="portfolio-box">
+                <div class="portfolio-box">
                     <img src="{{ group.img }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
@@ -17,9 +17,14 @@
                             <div class="project-category text-faded">
                                 {{ group.description }}
                             </div>
+                            <a href="mailto:{{ group.email }}" style="text-transform: lowercase;">联系电邮：{{group.en}}@omac.com</a>
+                            {% if {{group.link}} %}
+                            <br>
+                            <a href="{{group.link}}">脸书 (Facebook)</a>
+                            {% endif %}
                         </div>
                     </div>
-                </a>
+                </div>
             </div>
             {% endfor %}
         </div>
