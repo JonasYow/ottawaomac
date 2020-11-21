@@ -269,7 +269,7 @@ header {
         color: black;
         opacity: 1;
         display: block;
-        background: rgba( $theme-secondary, 1 );
+        background: rgba( $theme-secondary, 0.1 );
         // background: rgba(white, .7);
         position: absolute;
         bottom: 0;
@@ -290,7 +290,7 @@ header {
             }
             .project-category {
                 text-transform: uppercase;
-                color: $theme-dark;
+                color: $theme-option;
                 font-weight: 200;
                 font-size: 12px;
             }
