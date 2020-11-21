@@ -91,7 +91,8 @@ aside {
 // Navigation
 
 .navbar-default {
-    background-color: white;
+    // background-color: white;
+    background-color: transparent;
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
@@ -129,7 +130,7 @@ aside {
             }
         }
     }
-    @media (min-width: 768px) {
+    @media (min-width: 200px) {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
