@@ -9,9 +9,8 @@ body {
 }
 
 hr {
-    //border-color: $theme-primary;
-    color: white;
-    border-width: 3px;
+    border-top: 1px solid $theme-secondary;
+    //border-width: 3px;
     max-width: 0px;
 }
 
@@ -54,6 +53,16 @@ li {
 figcaption {
   font-style: italic;
   text-align: left;
+}
+
+//table properties for daily-water
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  color: black;
 }
 
 .bg-primary {
