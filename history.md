@@ -24,19 +24,19 @@ layout: subpage
 &nbsp;
 &nbsp;
 {% include image_history.html url='/img/history/h3.jpg' description='黄沐明牧师（主任牧师）及师母' %}
-
+<hr>
 
 2004 – 2006年谢逸牧师担任主任牧师。教会大力扩展校园事工、东区福音事工、英语事工和建堂事工。谢牧师现任恒爱堂主任牧师。
 &nbsp;
 &nbsp;
 {% include image_history.html url='/img/history/h4.jpg' description='谢逸牧师（主任牧师）' %}
-
+<hr>
 
 2008年陈明道牧师正式在国语宣道会牧会至今。陈牧师原在国语宣道会洗受信主, 2003年受神呼召献身，进神学院学习毕业后回到母会服事。
 &nbsp;
 &nbsp;
 {% include image_history.html url='/img/history/h5.jpg' description='陈明道牧师（主任牧师）师母' %}
-
+<hr>
 
 2009-2014年随着儿童人数增长，装备家长和培训儿童主日学老师为国宣事工当务之急。林有基传道夫妇加入事奉行列，林传道担任英文堂讲员，致力于儿童事工，并协助教会训练儿童主日学师资。
 &nbsp;
@@ -58,7 +58,7 @@ layout: subpage
 
 
 {% include image_history.html url='/img/history/h8.jpg' description='2013年3月29日奠基仪' %}
-
+<hr>
 &nbsp;
 &nbsp;
 新堂於2013年春动工兴建。2014年4月13日正式启用新堂主日崇拜，荣光充满这地，感恩喜悦充满每颗心。同年8月10日，首次启用新堂洗礼池为六位弟兄姊妹施洗；9月20日，举行感恩献堂礼，特邀请加拿大哈珀总理出席，宣道会加东区监督John Healey博士主礼，并有友堂弟兄姊妹，外地会友前来参加，200多人济济一堂同颂主恩，愿神的荣耀充满圣殿，将荣耀归给神。特别值得感恩的是，陈明道牧师在新堂接受按立为主任牧师，众弟兄姊妹同享喜乐。
