@@ -77,7 +77,8 @@ th, td {
 }
 
 .text-faded {
-    color: rgba(white, .7);
+    //color: rgba(white, .7);
+    color: $theme-dark;
 }
 
 .filtered {
