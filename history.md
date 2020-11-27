@@ -46,8 +46,8 @@ layout: subpage
 &nbsp;
 &nbsp;
 {% include image_history.html url='/img/history/h6.jpg' description='林有基牧师（英语及儿童事工牧师）师母与青少年' %}
-
-
+&nbsp;
+&nbsp;
 2009年国宣与东门宣道会开始进行英语青年联合事工。东门宣道会Chris牧师参与并负责带领青年团契并担任国宣英语堂崇拜讲员直至2014年。
 &nbsp;
 &nbsp;
