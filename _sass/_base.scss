@@ -113,13 +113,15 @@ aside {
     @include sans-serif-font;
     @include transition-all;
     .navbar-header .navbar-brand {
-        color: $theme-primary; 
+        > i {
+        color: $theme-dark; 
         @include sans-serif-font;
         font-weight: 700;
         text-transform: uppercase;
         &:hover,
         &:focus {
             color: darken($theme-primary, 10%);
+        }
         }
     }
     .nav {
@@ -148,12 +150,15 @@ aside {
     }
     @media (min-width: 200px) {
         background-color: transparent;
-        border-color: rgba(white, .3);
+        border-color: rgba(white, 0.7);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            > i {
+                font-weight: 700;
+            color: rgba(white, .9);
             &:hover,
             &:focus {
                 color: white;
+            }
             }
         }
         .nav > li > a,
@@ -167,11 +172,14 @@ aside {
             background-color: white;
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
-                color: $theme-primary;
-                font-size: 14px;
+                > i {
+                color: $theme-dark;
+                font-weight: 700;
+                // font-size: 14px;
                 &:hover,
                 &:focus {
                     color: darken($theme-primary, 10%);
+                }
                 }
             }
             .nav > li > a,
