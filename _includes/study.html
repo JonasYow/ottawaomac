@@ -10,7 +10,7 @@
                         <h3>{{session.title}}</h3>
                         <ul>
                             {% for lecture in session.lectures %}
-                            <li> <a class="text-faded" href="{{lecture.link}}">{{lecture.title}}</a></li>
+                            <li style="list-style-type: none;"> <a class="text-faded" href="{{lecture.link}}">{{lecture.title}}</a></li>
                             {% endfor %}
                         </ul>
                     </div>
