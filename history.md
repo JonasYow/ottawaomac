@@ -74,6 +74,12 @@ layout: subpage
 
 {% include image_history.html url='/img/history/h9.jpg' description="感恩献堂礼" %}
 
+<hr class="light">
+教会25周年堂庆短片
+
+<br>
+<br>
+
 
 
 
