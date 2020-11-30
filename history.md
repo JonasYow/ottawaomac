@@ -75,11 +75,10 @@ layout: subpage
 {% include image_history.html url='/img/history/h9.jpg' description="感恩献堂礼" %}
 
 <hr class="light">
-教会25周年堂庆短片
-
+### 教会25周年堂庆短片
 <br>
 <br>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3nQDhXuQkPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 
 
