@@ -71,15 +71,14 @@ layout: subpage
 <br>
 新堂於2013年春动工兴建。2014年4月13日正式启用新堂主日崇拜，荣光充满这地，感恩喜悦充满每颗心。同年8月10日，首次启用新堂洗礼池为六位弟兄姊妹施洗；9月20日，举行感恩献堂礼，特邀请加拿大哈珀总理出席，宣道会加东区监督John Healey博士主礼，并有友堂弟兄姊妹，外地会友前来参加，200多人济济一堂同颂主恩，愿神的荣耀充满圣殿，将荣耀归给神。特别值得感恩的是，陈明道牧师在新堂接受按立为主任牧师，众弟兄姊妹同享喜乐。
 
-
 {% include image_history.html url='/img/history/h9.jpg' description="感恩献堂礼" %}
 
 <hr style="height:2px;border-width:0;color:black;background-color:black">
-### 教会25周年堂庆短片
+## 教会25周年堂庆短片
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3nQDhXuQkPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 <br>
-### 教会20周年堂庆短片
+## 教会20周年堂庆短片
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ba8IHSyk5EE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 <br>
