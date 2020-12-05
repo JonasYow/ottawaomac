@@ -7,3 +7,10 @@ images:
         linktext: "主日证道"
       - link: "#contact"
         linktext: "教会地址"
+
+  - image: img/news/christmas20.jpeg
+    caption: "" 
+    content: ""
+    links:
+      - link: "https://forms.gle/7Z8m7khKe1tB5wHq9"
+        linktext: "点击报名"
