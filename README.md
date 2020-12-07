@@ -19,7 +19,7 @@ If you have a account of github, you can do the update via browser, no IDE is ne
 - The contact information is in `_config.yml`
 - 小组信息 -- `_data/groups.yaml`
 - 教会行事历 -- `_data/calendar.yaml`
-- 教会事工 -- `_data/services.yaml`
+- 关于我们 -- `_data/services.yaml`
 - 灵命进深 -- `_data/study.yaml`
 - 主日学 -- `_data/sundayschool.yaml`
 
