@@ -1,5 +1,5 @@
 ---
-title: 牧師簡介
+title: 牧师简介
 layout: subpage
 ---
 <br>
