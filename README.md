@@ -27,4 +27,15 @@ If you have a account of github, you can do the update via browser, no IDE is ne
 ## Font, font size and theme color, background image
 -- `_sass/_base.scss`
 
+## Edit YAML file
+
+make sure the YAML files follow these rules:
+
+- Use spaces instead of tabs.
+- Include a space after the : for each key value pair, like timezone: Africa/Nairobi.
+- Use only UTF-8 characters.
+- Quote any special characters, such as :, like title: "my awesome site: an adventure in parse errors".
+- For multi-line values, use | to create newlines and > to ignore newlines.
+- To identify any errors, you can copy and paste the contents of your YAML file into a YAML linter, such as [YAML Validator](https://codebeautify.org/yaml-validator).
+
 
