@@ -76,7 +76,7 @@ layout: subpage
 <hr style="height:2px;border-width:0;color:black;background-color:black">
 ## 教会25周年堂庆短片
 <br>
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/3nQDhXuQkPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" src="https://www.youtube.com/embed/3nQDhXuQkPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 <br>
 ## 教会20周年堂庆短片
 <br>
