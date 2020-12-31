@@ -10,7 +10,7 @@
 Almost of websit conten is in data files (yaml, cvs ...), any update in the data files (commit your changes), the website will be updated automatically. 
 The site will be rebuilt and take about 2min to refresh. 
 
-If you have a account of github, you can do the update via browser, no IDE is needed.
+If you have an account of github, you can do the update via browser, no IDE is needed.
 
 ## website layout
 - In `_layouts/front.html` reorder or remove section as you prefer.
