@@ -7,4 +7,11 @@ images:
         linktext: "主日证道"
       - link: "#contact"
         linktext: "教会地址"
-
+  - image: img/SermonPoster/Poster0207.jpg
+    caption: "" 
+    content: ""
+    links:
+      - link: ""
+        linktext: ""
+      - link: ""
+        linktext: ""
