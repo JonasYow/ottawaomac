@@ -12,9 +12,21 @@ The site will be rebuilt and take about 2min to refresh.
 
 If you have an account of github, you can do the update via browser, no IDE is needed.
 
-## website layout
+## Website layout
 - In `_layouts/front.html` reorder or remove section as you prefer.
 - subpage layout: -- `_layouts/subpage.html`
+
+## Website Section Layout
+- alliance.html 宣道教会
+- services.html 关于我们
+- dailylivingwater.html 每日活水读经计划
+- events.html 聚会时间 行事历
+- tithing.html 什一奉献
+- information.html 教会年刊
+- groups.html 小组
+- sundayschool.html 中文成人主日学
+- study.html 灵命进深
+- contact.html 联系我们
 
 ## Data files
 - The contact information is in `_config.yml`
