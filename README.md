@@ -48,6 +48,6 @@ make sure the YAML files follow these rules:
 - Use only UTF-8 characters.
 - Quote any special characters, such as :, like title: "my awesome site: an adventure in parse errors".
 - For multi-line values, use | to create newlines and > to ignore newlines.
-- To identify any errors, you can copy and paste the contents of your YAML file into a YAML linter, such as [YAML Validator](https://codebeautify.org/yaml-validator).
+- To identify any errors, you can copy and paste the contents of your YAML file into a YAML linter, such as [YAML Validator](https://codebeautify.org/yaml-validator); [YAML Editor](https://onlineyamltools.com/edit-yaml).
 
 
