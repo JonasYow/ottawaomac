@@ -15,10 +15,9 @@
             </div>
             <div class="col-lg-6 col-md-6 text-center">
                 <div class="service-box text-left">
-                    <h3 style="font-family: 'Ma Shan Zheng', cursive; font-style: normal"><strong>每周活动</strong></h3>
+                    <h3 style="font-family: 'Ma Shan Zheng', cursive; font-style: normal"><strong>行事历</strong></h3>
                     {% for event in site.data.calendar %}
                     <p>{{event.time}} - {{event.title}}</p>
-                    <pre>{{event.content}}</pre>
                     {% endfor %}
                 </div>
             </div>
