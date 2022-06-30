@@ -7,3 +7,12 @@ images:
         linktext: "主日证道"
       - link: "#contact"
         linktext: "教会地址"
+
+  - image: img/YouthRetreat2022.jpeg
+    caption: "" 
+    content: ""
+    links:
+      - link: ""
+        linktext: ""
+      - link: ""
+        linktext: ""
