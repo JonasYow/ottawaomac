@@ -5632,6 +5632,13 @@ a.list-group-item-danger.active:focus {
   padding: 0;
   overflow: hidden;
 }
+
+iframe {
+  min-width: 100%; 
+  width: 100px;
+  *width: 100%; 
+}
+
 .embed-responsive .embed-responsive-item,
 .embed-responsive iframe,
 .embed-responsive embed,
