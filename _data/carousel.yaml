@@ -7,9 +7,3 @@ images:
         linktext: "主日证道"
       - link: "#contact"
         linktext: "教会地址"
-  - image: img/news/ad_omac.JPG
-    caption: "" 
-    content: ""
-    links:
-      - link: "#contact"
-        linktext: "教会地址"
