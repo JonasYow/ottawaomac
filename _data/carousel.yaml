@@ -1,10 +1,4 @@
 images: 
-  - image: img/hiring.jpg
-    caption: "" 
-    content: ""
-    links:
-      - link: "hiring.pdf"
-        linktext: "详情 - 请点击链接" 
   - image: img/church1114.jpg
     caption: "" 
     content: ""
