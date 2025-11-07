@@ -76,15 +76,15 @@ layout: subpage
 <hr style="height:2px;border-width:0;color:black;background-color:black">
 ## 国宣2025年简介
 <br>
-<iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=4S0crQqQ1-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/4S0crQqQ1-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 <br>
 ## 国宣30周年堂庆晚会
 <br>
-<iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=81T7rLi-pQ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/81T7rLi-pQ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 <br>
 ## 教会30周年堂庆短片
 <br>
-<iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=LFNJPIYsOFg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/LFNJPIYsOFg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 <br>
 ## 教会25周年堂庆短片
 <br>
