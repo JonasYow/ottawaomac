@@ -12,7 +12,7 @@ layout: subpage
 陳牧師於2015年通過加拿大宣道會按牧, 並於同年起在多倫多天道神學院進修教牧學博士 (靈命塑造學程)。陳牧師對『大使命』(太28:19-20) 極有負擔, 希望與同工一起建造一個裝備門徒的教會, 並曾在加拿大、美國、台灣、日本、法國、荷蘭、以色列等地宣教 (講道、培訓及傳福音)。陳牧師是『把握時機』宣教生命課程的合格導師, 並與妻子一同擔任加拿大『福臨萬家』婚姻家庭研習會的國語講員夫婦。 陳牧師與師母賴明怡結婚25年, 育有一子一女: 女兒以琳 (Elim) 及兒子證主 (Shalom) 現均就讀大學。
 
 <br>
-{% include photo.html url='/img/pastor_Jason.jpg' description='Jason Ke' distance=150px %}
+{% include photo.html url='/img/pastor_jason2.jpg' description='Jason Ke' distance=150px %}
 <br>
 ## 葛仁先传道
 ### 电邮: jason_ke@hotmail.com
