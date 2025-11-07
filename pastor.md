@@ -14,7 +14,6 @@ layout: subpage
 <br>
 {% include photo.html url='/img/pastor_Jason.jpg' description='Jason Ke' distance=150px %}
 <br>
-
 ## 葛仁先传道
 ### 电邮: jason_ke@hotmail.com
 ### 电话: +1 (613) 236-7656 
